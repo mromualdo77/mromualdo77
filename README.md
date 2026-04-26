@@ -18,7 +18,7 @@
 </div>
 <br>
 
-###  Redes Sociais:
+
 
  <div align="center">
   <a href="https://www.linkedin.com/in/maria-romualdo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
